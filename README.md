@@ -1,1 +1,1 @@
-# 100 days of codw with Dr. Angela YU
+# 100 days of code
