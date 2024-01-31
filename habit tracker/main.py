@@ -5,7 +5,7 @@ from dotenv import dotenv_values
 cred = dotenv_values(".env")
 
 
-TOKEN = ["TOKEN"]
+TOKEN = cred["TOKEN"]
 USERNAME = cred["USERNAME"]
 GRAPHID = "pyb001"
 
